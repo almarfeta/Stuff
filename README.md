@@ -1,4 +1,6 @@
 # Stuff
+https://www.javatpoint.com/cpp-tutorial
+----------------------
 https://mainfunda.com/file-handling-in-cpp-17-part-i/
 --------------------
 https://en.cppreference.com/w/cpp/filesystem
